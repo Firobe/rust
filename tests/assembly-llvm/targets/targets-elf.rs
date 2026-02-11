@@ -52,6 +52,9 @@
 //@ revisions: aarch64_unknown_linux_musl
 //@ [aarch64_unknown_linux_musl] compile-flags: --target aarch64-unknown-linux-musl
 //@ [aarch64_unknown_linux_musl] needs-llvm-components: aarch64
+//@ revisions: aarch64_unikraft_linux_musl
+//@ [aarch64_unikraft_linux_musl] compile-flags: --target aarch64-unikraft-linux-musl
+//@ [aarch64_unikraft_linux_musl] needs-llvm-components: aarch64
 //@ revisions: aarch64_unknown_linux_ohos
 //@ [aarch64_unknown_linux_ohos] compile-flags: --target aarch64-unknown-linux-ohos
 //@ [aarch64_unknown_linux_ohos] needs-llvm-components: aarch64
